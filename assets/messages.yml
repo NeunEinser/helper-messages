@@ -98,6 +98,25 @@ variables:
         ~This issue is being temporarily resolved as {color:#d04437}*Awaiting Response*{color}. Once the requested information has been delivered, the report will be reopened automatically.~
 
 messages:
+  generic-invalid:
+    - project:
+        - bds
+        - mc
+        - mcd
+        - mcl
+        - mclg
+        - mcpe
+        - realms
+        - web
+      name: Account/billing issue
+      shortcut: acc
+      category: invalid
+      message: |-
+        *Thank you for your report!*
+        However, this issue is {color:#FF5722}*Invalid*{color} for the bug tracker.
+
+        %quick_links%
+      fillname: []
   account-issue:
     - project:
         - bds
