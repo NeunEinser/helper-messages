@@ -1419,7 +1419,7 @@ messages:
         Thank you for taking the time to report a bug. Unfortunately we are only able to accept bug reports in English since it is the common language used on this tracker.
 
         You are welcome to create a new ticket about your issue in English. You can use an online translator, if it helps.
-        However, please [*+search+*|https://bugs.mojang.com/issues/] before writing a new bug report, as it's very likely that someone else already reported your issue before.
+        However, please [*+search+*|https://report.bugs.mojang.com/servicedesk/customer/portal/%project_id%] before writing a new bug report, as it's very likely that someone else already reported your issue before.
         If you find an existing ticket about your issue, you can add a vote and any new information to it instead of reporting it yourself.
 
         Please note that this bug tracker is not for support or technical issues. If you have a payment issue or an issue with your account, please contact *[Microsoft Support|https://support.xbox.com/contact-us/]*. If you need help with a technical issue (e.g. Minecraft doesn't start at all), please contact *%help_discord%*.
@@ -1445,7 +1445,7 @@ messages:
         We appreciate you taking the time to report a bug. Unfortunately we are only able to accept bug reports in English, since it is the common language used by Mojang Studios and on this bug tracker.
 
         You are welcome to *create a new ticket* about your issue in English. You can use an online translator, if it helps. *Do note that if you edit this ticket, it is not guaranteed to be noticed, as the ticket is currently resolved.*
-        However, we recommend making use of the [*+search feature+*|https://bugs.mojang.com/issues/] before writing a new bug report, as it's very likely that someone else already reported your issue before.
+        However, we recommend making use of the [*+search feature+*|https://report.bugs.mojang.com/servicedesk/customer/portal/%project_id%] before writing a new bug report, as it's very likely that someone else already reported your issue before.
         If you find an existing ticket about your issue, you can add a vote and any new information to it instead of reporting it yourself.
 
         Please note that this bug tracker is not for support. If you have a payment issue or an issue with your account, please contact *[Microsoft Support|https://support.xbox.com/contact-us/]*.
