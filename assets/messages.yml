@@ -108,8 +108,8 @@ messages:
         - mcpe
         - realms
         - web
-      name: Account/billing issue
-      shortcut: acc
+      name: Generic Invalid
+      shortcut: ginv
       category: invalid
       message: |-
         *Thank you for your report!*
