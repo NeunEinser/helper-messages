@@ -68,21 +68,21 @@ variables:
 
   project_id:
     - project: mc
-      value: 2
+      value: '2'
     - project: mcd
-      value: 3
+      value: '3'
     - project: mcpe
-      value: 6
+      value: '6'
     - project: mcl
-      value: 7
+      value: '7'
     - project: mclg
-      value: 8
+      value: '8'
     - project: bds
-      value: 4
+      value: '4'
     - project: realms
-      value: 9
+      value: '9'
     - project: web
-      value: 10
+      value: '10'
 
   awaiting_response:
     - project:
