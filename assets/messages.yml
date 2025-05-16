@@ -303,6 +303,9 @@ messages:
       shortcut: ar
       category: ar
       message: |-
+        _We do not have enough information to find the cause of this issue._
+
+        
         %awaiting_response%
 
         %quick_links%
